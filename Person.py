@@ -10,6 +10,9 @@ class Person:
     def talk():
         pass
 
+    def walk():
+        pass
+
 if __name__ == "__main__":
     p1 = Person("024","2024029","9")
     p1.display()
