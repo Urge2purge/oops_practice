@@ -17,4 +17,5 @@ if __name__ == "__main__":
     p1 = Person("044","20240131","C", 90, 833)
     p1.display()
     p1.loan_char()
+    print("HELLO")
     
