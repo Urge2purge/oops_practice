@@ -13,9 +13,6 @@ class Person:
         print("Loan-to-Value ratio is",self.ltv)
         print("FICO score is", self.fico)
 
-    def walk():
-        pass
-
 if __name__ == "__main__":
     p1 = Person("044","20240131","C", 90, 833)
     p1.display()
