@@ -11,7 +11,7 @@ class Person:
         pass
 
 if __name__ == "__main__":
-    p1 = Person("001","20240131","3")
+    p1 = Person("024","2024029","9")
     p1.display()
     p1.talk()
     
